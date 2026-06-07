@@ -24,10 +24,12 @@ RAMER DIGITAL LTDA is actively updating, maintaining, and enhancing this project
 
 Please refer to the following documentation files for details on this workspace:
 
-1. **[Ramer Workspace Documentation (ramer.md)](file:///Volumes/DriveC1/CPP/RTNeural/ramer.md):** 
+1. **[Ramer Workspace Documentation (ramer.md)](./ramer.md):** 
    * Contains the project details, conventions, mandatory AI interaction rules, and the workspace architecture overview (Purpose, Working, and Applied Technology).
-2. **[Original Project Documentation (README-forked.md)](file:///Volumes/DriveC1/CPP/RTNeural/README-forked.md):** 
+2. **[Original Project Documentation (README-forked.md)](./README-forked.md):** 
    * The original `README.md` inherited from the parent repository (`jatinchowdhury18/RTNeural`), containing build instructions, API references, backend choices, and examples.
-3. **[Daily Achievements Log (done-20260607.md)](file:///Volumes/DriveC1/CPP/RTNeural/done-20260607.md):**
+3. **[Daily Achievements Log (done-20260607.md)](./done-20260607.md):**
    * Daily progress and tracking file for workspace changes.
+4. **[Workspace Kick-Off Guide (ramer-kick-off.md)](./ramer-kick-off.md):**
+   * Contains the step-by-step reproduction guide to initialize and configure new repositories for the Ramer Digital workspace.
 
