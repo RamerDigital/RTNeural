@@ -4,3 +4,6 @@
 [submodule "modules/json"]
 	path = modules/json
 	url = https://github.com/ramerdigital/nlohmann-json.git
+[submodule "modules/Eigen"]
+	path = modules/Eigen
+	url = https://github.com/ramerdigital/Ramer-eigen.git
