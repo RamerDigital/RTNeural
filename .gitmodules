@@ -1,11 +1,9 @@
-[submodule "modules/Eigen"]
-	path = modules/Ramer-eigen
+[submodule "third-party/Eigen"]
+	path = third-party/Ramer-eigen
 	url = https://github.com/ramerdigital/Ramer-eigen.git
-[submodule "modules/Ramer-xsimd"]
-	path = modules/Ramer-xsimd
+[submodule "third-party/Ramer-xsimd"]
+	path = third-party/Ramer-xsimd
 	url = https://github.com/RamerDigital/Ramer-xsimd.git
-	branch = main
-[submodule "modules/Ramer-nlohmann-json"]
-	path = modules/Ramer-nlohmann-json
+[submodule "third-party/Ramer-nlohmann-json"]
+	path = third-party/Ramer-nlohmann-json
 	url = https://github.com/RamerDigital/Ramer-nlohmann-json.git
-	branch = main

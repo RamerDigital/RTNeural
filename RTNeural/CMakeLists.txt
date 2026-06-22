@@ -42,7 +42,7 @@ set_property(TARGET RTNeural PROPERTY POSITION_INDEPENDENT_CODE ON)
 set_target_properties(RTNeural PROPERTIES LINKER_LANGUAGE CXX)
 target_include_directories(RTNeural
     PUBLIC
-        ../modules/Ramer-nlohmann-json/single_include
+        ../third-party/Ramer-nlohmann-json/single_include
     INTERFACE
         ..
 )
