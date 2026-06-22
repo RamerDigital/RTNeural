@@ -260,7 +260,7 @@ extra steps.
 4. Add the necessary include paths for your chosen backend. This path will be
    one of either:
    - `<repo>/modules/Ramer-eigen`
-   - `<repo>/modules/xsimd/include/xsimd`
+   - `<repo>/modules/Ramer-xsimd/include/xsimd`
 
 It may also be worth checking out the
 [example Makefile](./examples/hello_rtneural/Makefile).

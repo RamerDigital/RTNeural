@@ -4,7 +4,7 @@ CXXFLAGS = -O3 -I../../ -std=c++17 -DRTNEURAL_DEFAULT_ALIGNMENT=16
 # CXXFLAGS += -DRTNEURAL_USE_EIGEN=1 -I../../modules/Ramer-eigen
 
 # Extra flags for compiling with XSIMD backend
-# CXXFLAGS += -DRTNEURAL_USE_XSIMD=1 -I../../modules/xsimd/include
+# CXXFLAGS += -DRTNEURAL_USE_XSIMD=1 -I../../modules/Ramer-xsimd/include
 
 SRCS=hello_rtneural.cpp
 OBJS=$(subst .cpp,.o,$(SRCS))

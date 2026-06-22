@@ -1,9 +1,10 @@
-[submodule "modules/xsimd"]
-	path = modules/xsimd
-	url = https://github.com/ramerdigital/xsimd.git
 [submodule "modules/json"]
 	path = modules/json
 	url = https://github.com/ramerdigital/nlohmann-json.git
 [submodule "modules/Eigen"]
 	path = modules/Ramer-eigen
 	url = https://github.com/ramerdigital/Ramer-eigen.git
+[submodule "modules/Ramer-xsimd"]
+	path = modules/Ramer-xsimd
+	url = https://github.com/RamerDigital/Ramer-xsimd.git
+	branch = main
