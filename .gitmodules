@@ -5,5 +5,5 @@
 	path = modules/json
 	url = https://github.com/ramerdigital/nlohmann-json.git
 [submodule "modules/Eigen"]
-	path = modules/Eigen
+	path = modules/Ramer-eigen
 	url = https://github.com/ramerdigital/Ramer-eigen.git

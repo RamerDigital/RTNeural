@@ -259,7 +259,7 @@ extra steps.
 
 4. Add the necessary include paths for your chosen backend. This path will be
    one of either:
-   - `<repo>/modules/Eigen`
+   - `<repo>/modules/Ramer-eigen`
    - `<repo>/modules/xsimd/include/xsimd`
 
 It may also be worth checking out the
