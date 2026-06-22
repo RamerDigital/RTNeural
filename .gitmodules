@@ -1,10 +1,11 @@
-[submodule "modules/json"]
-	path = modules/json
-	url = https://github.com/ramerdigital/nlohmann-json.git
 [submodule "modules/Eigen"]
 	path = modules/Ramer-eigen
 	url = https://github.com/ramerdigital/Ramer-eigen.git
 [submodule "modules/Ramer-xsimd"]
 	path = modules/Ramer-xsimd
 	url = https://github.com/RamerDigital/Ramer-xsimd.git
+	branch = main
+[submodule "modules/Ramer-nlohmann-json"]
+	path = modules/Ramer-nlohmann-json
+	url = https://github.com/RamerDigital/Ramer-nlohmann-json.git
 	branch = main
